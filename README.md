@@ -1,4 +1,5 @@
 # zeze1004.github.io
 
 
-왜 readme만 나오지
+?ㅅ?
+어찌어찌 오류 해결
